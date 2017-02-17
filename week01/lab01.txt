@@ -22,3 +22,5 @@ drwxr-xr-x  2 damar.fajar StafCS 4096 Feb 17 21:52 week09
 drwxr-xr-x  2 damar.fajar StafCS 4096 Feb 17 21:52 week10
 drwxr-xr-x  2 damar.fajar StafCS 4096 Feb 17 21:53 xtra
 /home/fasilkom/mahasiswa/d/damar.fajar/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M%S
+Today is 17 Feb 2017 at 22:33:47
