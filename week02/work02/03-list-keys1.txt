@@ -1,6 +1,0 @@
-/home/fasilkom/mahasiswa/d/damar.fajar/.gnupg/pubring.gpg
----------------------------------------------------------
-pub   4096R/23145E7F 2017-02-25 [expires: 2017-08-24]
-uid                  Damar Fajar Tanjung (OSemangat) <damar.fajar@ui.ac.id>
-sub   4096R/72D7C4D5 2017-02-25 [expires: 2017-08-24]
-
