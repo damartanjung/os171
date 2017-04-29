@@ -63,4 +63,22 @@ w06-130417-17-LR-About: Synchronization Thread, From: Lecturer
 w06-130417-17-LR-About: Synchronization Thread, From: Lecturer
 w06-140417-14-PS-About: Lab 06
 w06-140417-14-PS-About: Lab 06
-w07-220417-22-PS-About : Lab07
+w08-180417-16-LR-About: Schedule, From: Lecturer
+w08-180417-16-LR-About: Schedule, From: Lecturer
+w08-180417-17-LR-About: Schedule, From: Lecturer
+w08-180417-17-LR-About: Schedule, From: Lecturer
+w08-200417-16-LR-About: Schedule, From: Lecturer
+w08-200417-16-LR-About: Schedule, From: Lecturer
+w08-200417-17-LR-About: Schedule, From: Lecturer
+w08-200417-17-LR-About: Schedule, From: Lecturer
+w08-220417-14-PS-About: Lab 07
+w08-220417-14-PS-About: Lab 07
+w09-250417-16-PS-About: Memory, From: Lecturer
+w09-250417-16-PS-About: Memory, From: Lecturer
+w09-250417-17-PS-About: Memory, From: Lecturer
+w09-250417-17-PS-About: Memory, From: Lecturer
+w09-270417-16-PS-About: Memory, From: Lecturer
+w09-270417-16-PS-About: Memory, From: Lecturer
+w09-270417-17-PS-About: Memory, From: Lecturer
+w09-270417-17-PS-About: Memory, From: Lecturer
+w09-290417-12-PS-About: Lab 08
