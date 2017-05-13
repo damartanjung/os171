@@ -82,3 +82,8 @@ w09-270417-16-PS-About: Memory, From: Lecturer
 w09-270417-17-PS-About: Memory, From: Lecturer
 w09-270417-17-PS-About: Memory, From: Lecturer
 w09-290417-12-PS-About: Lab 08
+w10-090517-16-PS-About: Virtualization, From: Lecturer
+w10-090517-16-PS-About: Virtualization, From: Lecturer
+w10-090517-17-PS-About: Cloud Computing, From: Lecturer
+w10-090517-17-PS-About: Cloud Computing, From: Lecturer
+
